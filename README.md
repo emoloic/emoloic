@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning, data science or business analytics projects**
 
-- 👨‍💻 All of my projects are available at [https://www.emoloic.site](https://www.emoloic.site)
+- 👨‍💻 All of my projects are available at [http://www.emoloic.site](http://www.emoloic.site)
 
 - 📫 How to reach me **emoloic56@gmail.com**
 
