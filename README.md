@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/lo%C3%AFc-emo-siani-6757b6189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loïc emo siani" height="30" width="40" /></a>
 <a href="https://fr-fr.facebook.com/siani.loic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siani loic" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClHo9ibSecH2mCU72d5jVjA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="esl ia" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/emosianiloic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="emosianiloic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emoloic&show_icons=true&locale=en" alt="emoloic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emoloic&" alt="emoloic" /></p>
-
