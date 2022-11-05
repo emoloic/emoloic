@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emoloic&label=Profile%20views&color=0e75b6&style=flat" alt="emoloic" /> </p>
 
-- 🔭 I’m currently working on **AWS Cloud Developer** and **Machine Learning for production**
+- 🔭 I’m currently working on **AWS Cloud Developer with NodeJS** and **Machine Learning for production**
 
-- 🌱 I’m currently learning **AWS Cloud Developer** and **Machine Learning for production**
+- 🌱 I’m currently learning **AWS Cloud Developer with NodeJS** and **Machine Learning for production**
 
-- 👯 I’m looking to collaborate on **machine learning, data science or business analytics projects**
+- 👯 I’m looking to collaborate on **Data Science or Big Data projects**
 
 - 👨‍💻 All of my projects are available at [https://emoloic.site](https://emoloic.site)
 
