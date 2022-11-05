@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EMO SIANI LOIC</h1>
-<h3 align="center">A passionate Data Scientist, Artificial Intelligence, Business Analytics and Software Developer.</h3>
+<h3 align="center">A passionate Data Scientist, Big Data and Cloud Developer (AWS, GCP).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emoloic&label=Profile%20views&color=0e75b6&style=flat" alt="emoloic" /> </p>
 
